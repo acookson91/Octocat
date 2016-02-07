@@ -1,13 +1,1 @@
-When you use git clone the following happens:
-1. It creates a directory under the cloned file name in your current directory
-mkdir clonefile name
-2. It moves into the directory
-cd clonefile
-3. It sets up git (dropping the .git file)
-git init
-4. It adds a remote to github, to allow pushes and pulls between the origin
-git remote add origin URL
-5. Pulls anything from the repo 
-git pull
-6. Goes back to the parent folder
-cd ..
+Explain what git clone does, in your own words
